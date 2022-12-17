@@ -1,0 +1,4 @@
+# Files / Patterns to be ignored
+venv*/
+*archive/
+*cache*
